@@ -25,17 +25,7 @@ with open(filename, "rb") as csvfile, temp:
 			})
 	#shutil.move(temp.name, filename)		
 
-# f = NamedTemporaryFile(delete=False)
-# print(f)
 
-# print(f.name) 
-
-
-# f.write("Hello World!\n")
-# f.close()
-# >>> os.unlink(f.name)
-# >>> os.path.exists(f.name)
-# False
 
 
 

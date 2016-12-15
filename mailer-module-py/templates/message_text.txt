@@ -1,0 +1,8 @@
+Hi {name}!
+
+Thank you for the purchase on {data}.
+We hope you are exicted about using it. Jast as abc
+reminder the purchase total was ${amount}.
+Have a great one!
+
+Team!
